@@ -1,0 +1,13 @@
+site_name: Madoka documentation
+docs_dir: docs
+theme: material
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home :
+    - About: index.md
+  - Legal :
+    - Terms of Service : tos.md
+    - Privacy Policy : privacy.md
