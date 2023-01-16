@@ -11,3 +11,5 @@ nav:
   - Legal :
     - Terms of Service : tos.md
     - Privacy Policy : privacy.md
+  - Help :
+    - Commands : commands.md
